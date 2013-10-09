@@ -65,9 +65,18 @@ textarea {
    Author's custom styles
    ========================================================================== */
 
+.wrap-text h2, .wrap-text h3, .wrap-text h4, .wrap-text h5, .wrap-text p {
+    white-space: normal;
+}
 
-
-
+.custom-header {
+    min-height: 1.1em;
+    text-align: center;
+    font-size: 16px;
+    margin: .2em 5% .4em;
+    padding: 0;
+    outline: 0!important;
+}
 
 
 
